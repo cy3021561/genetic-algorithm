@@ -1,6 +1,7 @@
 # Genetic Algorithm for Traveling Salesman Problem (Python)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3D78wOpbkWg/0.jpg)](https://youtu.be/3D78wOpbkWg)  
+Click the image to see further demo videos.
 
 ## Overview
 
